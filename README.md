@@ -130,4 +130,4 @@ Voir le repo [`powerbi-retail-dashboard`](https://github.com/kokohuil/powerbi-re
 ## 👤 Auteur
 
 **William KOUKOUI** — Data Analyst / Analytics Engineer
-[LinkedIn](www.linkedin.com/in/wi-ko-data-analyst-cdi-paris) · [Email](mailto:william.koukoui.ai@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/wi-ko-data-analyst-cdi-paris) · [Email](mailto:william.koukoui.ai@gmail.com)
