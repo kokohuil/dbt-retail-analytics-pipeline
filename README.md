@@ -123,7 +123,7 @@ dbt-retail-analytics-pipeline/
 
 ## 📸 Dashboards Power BI
 
-Voir le repo [`powerbi-retail-dashboard`](https://github.com/<votre-username>/powerbi-retail-dashboard) pour les visuels connectés à ces marts.
+Voir le repo [`powerbi-retail-dashboard`](https://github.com/kokohuil/powerbi-retail-dashboard) pour les visuels connectés à ces marts.
 
 ---
 
